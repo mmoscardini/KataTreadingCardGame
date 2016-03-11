@@ -1,0 +1,12 @@
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\KataTreadingCardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\KataTreadingCardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\KataTreadingCardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\KataTreadingCardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\KataTreadingCardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\mmosc\OneDrive\Documentos\Visual Studio 2015\Projects\CardGame\KataTreadingCardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
